@@ -1,7 +1,7 @@
 
 ### Hello there, i am Fred 👋
 
-- 🔭 I’m currently working on as a support analyst at [Grupo Multi](https://www.multilaserempresas.com.br/conteudo/institucional_quem_somos/2?gclid=Cj0KCQjw166aBhDEARIsAMEyZh4tdpTvwCODCTiQ1GUscKyCic4rFa0bK9NzQbQpLe-uHKFfqdIBSsQaAv99EALw_wcB). <br>
+- 🔭 I’m currently working on as a support analyst pl at [Grupo Multi](https://www.multilaserempresas.com.br/conteudo/institucional_quem_somos/2?gclid=Cj0KCQjw166aBhDEARIsAMEyZh4tdpTvwCODCTiQ1GUscKyCic4rFa0bK9NzQbQpLe-uHKFfqdIBSsQaAv99EALw_wcB). <br>
 - 🌱 I’m currently learning Kotlin
 - 💻 I’m studying computer science
 - ⚡ Do. Or do not. There is no try
